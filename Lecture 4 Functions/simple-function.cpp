@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// use void to avoid any return value
 void PrintLine (){
     for(int i=0; i<10; i++)
     {
@@ -11,6 +12,7 @@ void PrintLine (){
 
 int main()
 {
+    // funtion call karna padega
     PrintLine();
     return 0;
 }
