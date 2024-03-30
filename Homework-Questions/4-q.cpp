@@ -1,3 +1,5 @@
+// print all prime nuumber from 1 to N
+
 #include<iostream>
 using namespace std;
 void SumofPrimeNo(int n)
@@ -9,5 +11,5 @@ void SumofPrimeNo(int n)
 
 int main ()
 {
-    SumofPrimeNo(12);
+    SumofPrimeNo(12)
 }

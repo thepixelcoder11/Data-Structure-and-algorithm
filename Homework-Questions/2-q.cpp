@@ -1,3 +1,5 @@
+// function to find the area of circle
+
 #include<iostream>
 using namespace std;
 void AreaofCircle(int r)
